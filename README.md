@@ -1,1 +1,2 @@
 # Proyecto_Fin_Grado
+Soy Jesús GL Les presento mi aplicación de domótica. El uso es muy sencillo, una vez iniciada, solo tienes que introducir el usuario y controseña que te han sido facilitados. En caso de problemas, solo tienes que pulsar la opción de "Centro de ayuda". Una vez iniciada, te encontrarás en la pantalla principal de inicio, la cual te mostrará y tendrás en la parte inferior cuatro botones para desplazarte a las páginas respectivas.
