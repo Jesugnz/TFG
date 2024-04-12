@@ -1,0 +1,3 @@
+C:/Users/ashen/AndroidStudioProjects/TFG/app/.cxx/Debug/431y1p69/arm64-v8a/CMakeFiles/tfg.dir
+C:/Users/ashen/AndroidStudioProjects/TFG/app/.cxx/Debug/431y1p69/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ashen/AndroidStudioProjects/TFG/app/.cxx/Debug/431y1p69/arm64-v8a/CMakeFiles/rebuild_cache.dir

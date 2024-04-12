@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ashen/AndroidStudioProjects/TFG/app/.cxx/Debug/431y1p69/x86",
+  "command": "C:\\Users\\ashen\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/ashen/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dtfg_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\tfg.dir\\tfg.cpp.o -c C:\\Users\\ashen\\AndroidStudioProjects\\TFG\\app\\src\\main\\cpp\\tfg.cpp",
+  "file": "C:\\Users\\ashen\\AndroidStudioProjects\\TFG\\app\\src\\main\\cpp\\tfg.cpp"
+}
+]
