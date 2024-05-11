@@ -1,6 +1,7 @@
 # Proyecto_Fin_Grado
 
 -ENGLISH
+
 I am Jesús González Luengo and I present to you my home automation application.
 Use is very simple, once started, you just have to enter the username and password provided to you.
 In case of problems, you just have to press the "Help Center" option, with the question mark in the lower right corner.
@@ -14,6 +15,7 @@ On the Account screen, the "id" of the user who is using the application, their 
 In the help center, you will find a series of drop-down menus with information, as well as small aids for users who do not need more elaborate technical assistance.
 
 -ESPAÑOL
+
 Soy Jesús González Luengo y les presento mi aplicación de domótica. 
 El uso es muy sencillo, una vez iniciada, solo tienes que introducir el usuario y contraseña que te sean facilitados. 
 En caso de problemas, solo hay que pulsar la opción de "Centro de ayuda", siendo la interrogación en la esquina inferior derecha. 
