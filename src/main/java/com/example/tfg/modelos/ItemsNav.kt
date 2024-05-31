@@ -2,7 +2,7 @@ package com.example.tfg.modelos
 
 import com.example.tfg.R
 import com.example.tfg.navegacion.PantallaNav
-
+//Estos son los objetos que se van a mostrar en la barra de navegación, indicando su imagen, nombre y ruta
 sealed class ItemsNav(
     val icono: Int,
     val titulo: String,
